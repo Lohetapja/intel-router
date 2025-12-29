@@ -17,7 +17,7 @@ This tool favors clarity and restraint over completeness.
 
 ## Quick Start (Step-by-step)
 
-This is a small CLI tool. You put indicators into `intel.json`, run the script, and it writes `report.json`.
+This is a small, offline CLI tool. You put indicators into `intel.json`, run the script, and it writes `report.json`.
 
 ### 1) Download the project
 - Click **Code → Download ZIP** on GitHub
@@ -91,4 +91,5 @@ Make sure you are in the correct folder (the one with router.py)
 Check Python:
 python --version
 Make sure intel.json is valid JSON (commas and quotes matter)
+
 
