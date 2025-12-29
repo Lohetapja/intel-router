@@ -1,8 +1,5 @@
 [
-  {
-    "indicator": "185.234.218.92",
-    "type": "ip",
-    "source": "abuse_ch",
-    "last_seen": "2025-01-03"
-  }
+  { "indicator": "192.168.1.10", "type": "ip", "source": "otx", "last_seen": "2025-12-28" },
+  { "indicator": "localhost", "type": "domain", "source": "otx", "last_seen": "2025-12-28" },
+  { "indicator": "evil.example", "type": "domain", "source": "otx", "last_seen": "2025-12-20" }
 ]
